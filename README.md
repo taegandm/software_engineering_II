@@ -11,4 +11,4 @@ public static void main(String[] args) {
 ```
 Hope you enjoyed this first repository!
 ***
-> This is the work of Brianna, Jigna, and Taegan
+> This is the work of Briana, Jigna, and Taegan
